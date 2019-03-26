@@ -11,4 +11,4 @@ Football Data (https://datahub.io/collections/football)
 - What is the team with the best payed players?
 - What is the team with the best players?
 - Does it have relation with the performance of the team?
-- What is the player with the major difference between the overall performance and his potential?
+- What is the player with the biggest difference between the overall performance and his potential?
