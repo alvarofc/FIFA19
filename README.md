@@ -6,6 +6,8 @@ Kaggle FIFA 19 Dataset (https://www.kaggle.com/karangadiya/fifa19/version/3#data
 
 Football Data (https://datahub.io/collections/football)
 
+Understanding Positions (https://www.mulefactory.com/wiki_fifa_19_formations_and_player_positions/)
+
 ### Questions to answer:
 - What is the team with the most valuable players?
 - What is the team with the best payed players?
