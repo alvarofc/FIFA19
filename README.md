@@ -14,3 +14,4 @@ Understanding Positions (https://www.mulefactory.com/wiki_fifa_19_formations_and
 - What is the team with the best players?
 - Does it have relation with the performance of the team?
 - What is the player with the biggest difference between the overall performance and his potential?
+- What players should I choose?
