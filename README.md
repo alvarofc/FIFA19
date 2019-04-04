@@ -12,6 +12,8 @@ Understanding Positions (https://www.mulefactory.com/wiki_fifa_19_formations_and
 - What is the team with the most valuable players?
 - What is the team with the best payed players?
 - What is the team with the best players?
-- Does it have relation with the performance of the team?
+- Does it have relation with the performance of the team? (Not answered yet)
 - What is the player with the biggest difference between the overall performance and his potential?
 - What players should I choose?
+
+##### Please check the presentation for player selection and to understand the criteria followed (https://slides.com/afc/deck-1/live)
