@@ -1,0 +1,38 @@
+Is the goal of the project clear to you?
+Yes
+
+Do you know what are the main questions that your partner wants to answer?
+Yes
+
+Do you know your partners' hypotheses?
+No. Seems that an initial hypotheses is missing.
+
+What is the source of the data that your partner is going to use?
+Kaggle and some more web scrapping
+
+Has your partner defined any coding conventions?
+No
+
+
+Is there a clear folder structure?
+Kind of
+
+
+If you had to look for the data files he used, would you be able to do it easily?
+Yes
+
+Does the repository include a .gitignore file?
+Yes
+
+Is it easy for you to know what part of the analysis each file contains?
+If you open one of those files, is there any text that leads you through all the code (comments, markdown cells, …)?
+Read one of those code files. Does it have a clear purpose? (e.g: scraping a web, cleaning the data, …)
+
+Could not answer any of the three prior questions because I wasn't able to access the dataset and the csv files. Github told me that the files were too big to show.
+
+
+Do the commits have a clear and understandable message?
+I woudl say yes
+
+Is your partner making enough commits?
+Yes
